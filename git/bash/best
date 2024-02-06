@@ -1,1 +1,3 @@
-#!/bin/bashcho "Best"
+#!/bin/bash
+echo "best"
+
